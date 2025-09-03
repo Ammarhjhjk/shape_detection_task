@@ -1,1 +1,0 @@
-# shape_detection_task
